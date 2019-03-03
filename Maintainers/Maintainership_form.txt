@@ -1,0 +1,43 @@
+---
+__Before applying__
+---
+
+1. Before contacting anyone on the team, ALL of the requirements for maintainer must be met. If there are any questions regarding them, you can reach out.
+
+
+---
+__How to apply__
+---
+
+1. Maintainers are requested to send an email to the following email address:
+
+   - projectpearl69@gmail.com
+
+2. The content of the email should be as follows:
+
+   - Subject : Maintainership
+
+   - Body : "
+
+	Maintainership for Pearl-OS
+
+
+	Name:
+
+	Email ID :
+
+	Alternate contact :
+
+	Device name : (Should include the code name too)
+
+	Device tree source : (link)
+
+        Kernel tree source : (link)
+
+	Does your build pass the requirements? : (yes/no) (If no, list the requirements not met)
+
+	Link to screenshots of UnOfficial Build :
+
+	Contact of people (atleast 2) who have used the build : (Preferably telegram or discord ID) "
+
+	

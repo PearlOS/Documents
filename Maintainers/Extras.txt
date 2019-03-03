@@ -1,0 +1,11 @@
+## Extras for Project Pearl ##
+
+- Maintainers are required to specify their build type (OFFICIAL/UNOFFICIAL) through their device trees [PEARL_BUILD_TYPE].
+
+- Maintainers are expected to specify their name through their device trees [PEARL_MAINTAINER].
+
+- Maintainers are expected to specify the CPU model name, with words seperated by a '_' [CPU_MODEL].
+
+eg: 
+
+CPU_MODEL := "Snapdragon_625"

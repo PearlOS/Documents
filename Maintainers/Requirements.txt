@@ -1,0 +1,39 @@
+## Required skills ##
+
+- The maintainer must own the device.
+
+- The maintainer must know how to use Git correctly. This includes but is not limited to amending commits, rebasing commits, cloning repos, pushing commits/repos, merging and pulling commits accordingly.
+
+- The maintainer must display proper authorship and commit history in all non-original commits that are pulled from other sources. This is not limited to just past commits but future commits as well that are pushed to both github and gerrit. Authorship is important.
+
+- The maintainer must write clear and descriptive commit messages with both normal commits and reverts, documenting exactly what they are changing and why.
+
+
+
+## Device requirements ##
+
+- The device must be buildable.
+
+- The device must have working phone calls and data.
+
+- The device must have a working hotspot if applicable.
+
+- The device must have a working camera.
+
+- The device must have working bluetooth.
+
+- The device must have working NFC if applicable.
+
+- The device must have a working fingerprint scanner if applicable.
+
+- The device must have a working proximity sensor.
+
+- The device must have working WiFi.
+
+- If commits are needed in repos other than the device specific ones, they must:
+
+  - Be necessary for the device to build, boot, or otherwise function.
+
+  - Have proper authorship.
+
+  - Be as minimal as possible. Do NOT merge other ROMs' repos into Pearl.
