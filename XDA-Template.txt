@@ -1,1 +1,87 @@
-placeholder
+[CENTER][CODE]/* Disclaimer 
+* I am not responsible for bricked devices, dead SD cards, thermonuclear war, 
+* or you getting fired because the alarm app failed. Please do some research 
+* if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you blame me in any way for what happens to your device, I will laugh at you.
+* BOOM! goes the dynamite
+*/[/CODE]
+
+[IMG="About"]https://i.imgur.com/vAw7Liz.png [/IMG] 
+[SIZE="5"][B]About Project[/B][/SIZE]
+
+An Android ROM purely based on AOSP sources, focusing on perfomance & UI, rather than bloat features. The aim is to create a minimal ROM which includes various tweaks users would expect from a custom ROM. #TeamPearl 
+
+[SIZE="5"][B]FEATURES[/B][/SIZE]
+
+[HIDE]Display :- 
+FONT MANAGER
+
+System :- 
+Themes
+Power Menu
+Battery Charging Light Cust
+
+Lockscreen :- 
+Lockscreen Charging Info
+Double tap to sleep on Lockscreen
+Auto Face Unlock
+Weather On Lockreen
+
+Statusbar :- 
+Headups
+Clock Settings
+Traffic Indicators
+
+Navigation :-
+HW Button Rebinding
+Button Backlight
+Navigation Bar Toggle
+
+Tiles :-
+GAMING MODE
+Caffiene
+CPU Info
+Restart 
+Compass
+HeadsUP
+[/HIDE]
+
+[SIZE="5"][B]Downloads[/B][/SIZE]
+
+[B]Download Pearl Builds:[/B] [URL]https://sourceforge.net/projects/ [/URL]
+[B]Download Bit Gapps : [/B][URL] https://t.me/bitgapps_official[/URL]
+[B]Download OpenGAPPS:[/B] [URL="https://opengapps.org"] https://opengapps.org[/URL]
+
+[SIZE="5"][B]BUGS[/B][/SIZE]
+* You Tell US
+
+[SIZE="5"][B]Flashing Instructions:[/B][/SIZE]
+- Download ROM and GAPPS
+- Reboot to recovery and Backup existing ROM
+- Wipe System, Data, ART cache, Cache
+- Flash ROM, Gapps and reboot
+
+[SIZE="5"][B]Credits[/B][/SIZE]
+[HIDE]Lineage
+AOSP
+DotOS
+PixelExperience
+DirtyUnicorns
+Pixys
+NitrogenOS 
+HavocOS
+CypherOS
+LeanOS
+ColtOS
+AospExtended
+MSM-Xtended
+AICP[/HIDE]
+
+[B]Extreme apologies if we've missed out someone, please feel free to PM, in case we've forgotten to pin your name here!
+[/B]
+
+[SIZE="5"][B]Find Pearl in Ocean of ROMs[/B][/SIZE]
+[B]Pearl on Github:[/B] [URL] https://github.com/PearlOS [/URL]
+[B]Our Telegram Channel:[/B][URL] https://t.me/Project_Pearl [/URL]
+[B]Our Telegram Group:[/B][URL] https://t.me/ProjectPearlOfficial [/URL][/CENTER]placeholder
