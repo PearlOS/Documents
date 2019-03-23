@@ -9,3 +9,5 @@
 eg: 
 
 CPU_MODEL := "Snapdragon_625"
+PEARL_BUILD_TYPE := OFFICIAL
+PEARL_MAINTAINER := Name_Surname / yourname
