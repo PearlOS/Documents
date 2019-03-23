@@ -1,0 +1,37 @@
+1. You To Need Fork https://github.com/PearlOS/OTA.git 
+2. Create devicecode.json and devicecode.md (where .json is the build info and .md is the changelog for your device)
+3. devicecode.json parameters 
+
+{
+	"response": [
+    {
+		"filename": "Pearl-1.0-devicecodename-OFFICIAL-date-time.zip",
+		"maintainer": "yourname",
+		"version": "1.0",
+		"romtype": "Official",
+		"size": "xxxxxxx",
+		"datetime": datetime,
+		"id": "shasum",
+		"url": "will be given to you one we merge your official request",
+		"xda": "Xda Thread link"
+	}
+  ]
+}
+
+how to get 
+
+Change Dir to cd out/target/product/devicecodename/
+
+1. datetime: 
+
+$ grep ro\.build\.date\.utc system/build.prop | cut -d= -f2
+
+2. id: 
+$ sha256sum $romname
+
+3 size:
+$ stat -c%s $romname
+
+once you are complete with the json things create a pull request to PearlOS 
+
+NOTE: You Need To Update Your Device .json and .md files on every update 
