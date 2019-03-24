@@ -4,6 +4,7 @@ __Before applying__
 
 1. Before contacting anyone on the team, ALL of the requirements for maintainer must be met. If there are any questions regarding them, you can reach out.
 
+2. Your Device tree should be public and with PEARLOS-Brinup commit
 
 ---
 __How to apply__
