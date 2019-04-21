@@ -1,6 +1,5 @@
-1. You To Need Fork https://github.com/PearlOS/OTA.git 
-2. Create devicecode.json and devicecode.md (where .json is the build info and .md is the changelog for your device)
-3. devicecode.json parameters 
+1. Create devicecode.json and devicecode.md (where .json is the build info and .md is the changelog for your device)
+2. devicecode.json parameters 
 
 {
 	"response": [
@@ -18,20 +17,18 @@
   ]
 }
 
-how to get 
+How to get 
 
-Change Dir to cd out/target/product/devicecodename/
+Change directory to out/target/product/devicecodename/
 
 1. datetime: 
 
 $ grep ro\.build\.date\.utc system/build.prop | cut -d= -f2
 
 2. id: 
-$ sha256sum $romname
+$ sha256sum $filename
 
 3 size:
-$ stat -c%s $romname
-
-once you are complete with the json things create a pull request to PearlOS 
+$ stat -c%s $filename
 
 NOTE: You Need To Update Your Device .json and .md files on every update 
